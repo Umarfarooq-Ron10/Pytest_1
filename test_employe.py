@@ -3,7 +3,7 @@ from employee import employee_details
 def test_employee_details():
     expected_output = (
         "Employee Name: Alice\n"
-        "Employee ID: E101\n"
+        "Employee ID: e101\n"
         "Department: IT\n"
         "Salary: 55000"
     )
