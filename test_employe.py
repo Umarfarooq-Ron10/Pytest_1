@@ -1,4 +1,4 @@
-from employee import employee_details
+from employe import employee_details
 
 def test_employee_details():
     expected_output = (
